@@ -11,7 +11,9 @@
     <p class="sm">Use this form below to add a new bucket list goal. What do you want to accomplish in your life?</p>
 
     <form>
-      <input type="text" class="txt" name="item" placeholder="Life goal..">
+      <input type="text" class="txt" name="item" placeholder="Life goal.." [(ngModel)]="goalText" >
+      <br><span>{{ goalText }}</span><br>
+
       <!-- Interpolation -->
       <input type="submit" class="btn" value="{{ btnText }}">
       <!--<input type="submit" class="btn" [value]="btnText" >-->
