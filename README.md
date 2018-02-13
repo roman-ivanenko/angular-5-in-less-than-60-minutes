@@ -1,4 +1,6 @@
-# MyNewProject
+# Hands-on part of the course ["Learn Angular 5 from Scratch - Angular 5 Tutorial"](https://coursetro.com/courses/19/Learn-Angular-5-from-Scratch---Angular-5-Tutorial) by [DesignCourse](https://www.youtube.com/user/DesignCourse/about).
+
+[Live version of the project](https://roman-ivanenko.github.io/angular-5-in-less-than-60-minutes/) deployed to Github Pages.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 
